@@ -1,1 +1,1 @@
-# prueba_tecnica_golang_andre
+# Prueba Técnica de Carlos André Sánchez M.
